@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpApi", "HttpApi\HttpApi.csproj", "{1C64CB95-0966-4DB8-A53E-886F14580CCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C64CB95-0966-4DB8-A53E-886F14580CCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C64CB95-0966-4DB8-A53E-886F14580CCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C64CB95-0966-4DB8-A53E-886F14580CCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C64CB95-0966-4DB8-A53E-886F14580CCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
